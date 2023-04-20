@@ -1,12 +1,22 @@
 # Booking Site using SASS and Flex 💻🌐
 
+Welcome to my repository for the Booking Site project! This project was created as part of my studies in the Advance CSS course on Udemy, and it serves as a repository for the site I built during the course.
+
 ## Purpose 🎯
 
-The purpose of this project is to create a booking site that allows users to book accommodations, flights, and rental cars all in one place. The site is designed to be user-friendly and visually appealing, making the booking process as easy and enjoyable as possible.
+This project is a booking site for travel accommodations built with SASS and Flexbox. It utilizes HTML, CSS, and JavaScript to create a responsive and user-friendly interface for users to book their travel accommodations.
 
 ## Technology 🔧
 
-The site is built using HTML, CSS, and JavaScript, with a heavy emphasis on SASS and Flexbox. SASS is used to make the styling process more efficient and organized, while Flexbox is used to create a responsive layout that adapts to different screen sizes.
+The site is built using HTML, CSS, with a heavy emphasis on SASS and Flexbox. SASS is used to make the styling process more efficient and organized, while Flexbox is used to create a responsive layout that adapts to different screen sizes.
+
+Some of the key technologies and tools used in this project include:
+
+- HTML
+- CSS
+- SASS
+- Visual Studio Code
+- GitHub
 
 ## Features 🚀
 
